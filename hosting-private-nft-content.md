@@ -115,7 +115,7 @@ However, the design of Bubble Protocol inherently minimises the extent of this t
 
 In the context of our NFT example, the optimal choice for hosting NFT data would be a decentralised storage network. Here at Bubble Protocol, we’re in the process of developing such a network, one that has our access control protocol seamlessly integrated.
 
-<p align="center">. . .</p>
+***
 
 As we’ve shown, Bubble Protocol offers a simple and versatile solution for hosting private NFT content, and for web3 in general. It provides a secure and decentralised way to manage access to off-chain content, whether it’s for an individual token holder or accessible to the wider public.
 
