@@ -1,8 +1,12 @@
 ---
 title: Bitcoin - The Tip of the Iceberg
 image: https://miro.medium.com/v2/resize:fit:4094/format:webp/1*yxRJ0EVjyp3v6Gt5fSx49g.png
+image-width: full
 description: Bitcoin is seen by many as 'just a currency', a curiosity or a downright scam. But its the potential of its technology to evolve and the prospect of far-reaching new applications has technologists, software developers and entrepreneurs deeply excited. The currency, as groundbreaking as it is, is just the tip of the iceberg.
 ---
+
+*First published on Medium, Oct 2017. [link](https://medium.com/@dnpotter/https-medium-com-bitcoin-the-tip-of-the-iceberg-4a9e5bcc352b)*
+
 A new global community has appeared in the last 8 years. A community full of software developers, technology enthusiasts, libertarians, fraudsters, speculators and entrepreneurs that has grown up around Bitcoin since its launch in 2009. There is a lot of hype in this ‘crypto’ community; after all Bitcoin is the world’s first currency that is accessible to all and not owned or controlled by any state or organisation whose value has risen 55,000% in the last 5 years to reach a market value of $90B. It is a gold rush for speculators, a wild-west for fraudsters, an open global market for libertarians and an anonymous payment system for criminal activity. Much of the hype and drama — good and bad — surrounding the Bitcoin currency over the past few years has been reported in the international press, yet the technology behind Bitcoin is not widely known. It is this technology, its potential to evolve and the prospect of far-reaching new applications that has technologists, software developers and entrepreneurs deeply excited. The currency, as groundbreaking as it is, is just the tip of the iceberg.
 
 # Currency

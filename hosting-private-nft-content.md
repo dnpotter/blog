@@ -3,6 +3,7 @@ title: Hosting Private NFT Content with Bubble Protocol
 description: NFTs typically employ off-chain storage to host their digital content. Decentralised networks like IPFS are commonly used, creating a fully decentralised solution. While this approach is fine for public NFT content it does not cater to private content that should only be accessible to NFT holders.
 image: https://images.unsplash.com/photo-1580847097346-72d80f164702?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80
 image-caption: Photo by Tim Mossholder on Unsplash
+image-width: medium
 ---
 NFTs typically employ off-chain storage to host their digital content. Decentralised networks like IPFS are commonly used, creating a fully decentralised solution. While this approach is fine for public NFT content it does not cater to private content that should only be accessible to NFT holders.
 
